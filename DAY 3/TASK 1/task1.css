@@ -1,0 +1,78 @@
+
+h1, h2, h3 {
+    font-family: Arial, sans-serif;
+    color: #003366;
+}
+p {
+    font-size: 16px;
+    color: #333;
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f9ff;
+}
+header {
+    background-color: #0077cc;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+.banner {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #cce6ff;
+}
+button {
+    background-color: #0077cc;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005fa3;
+}
+.services {
+    padding: 40px 20px;
+    text-align: center;
+}
+.services p {
+    color: #555;
+}
+.service-card {
+    display: inline-block;
+    width: 250px;
+    padding: 20px;
+    margin: 15px;
+    border: 2px solid #0077cc;
+    box-sizing: border-box;
+
+    border-radius: 10px;
+    background-color: white;
+}
+#contact {
+    padding: 40px 20px;
+    background-color: #e6f2ff;
+    text-align: center;
+}
+input[type="text"] {
+    padding: 8px;
+    width: 250px;
+    border: 1px solid #0077cc;
+}
+footer {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
