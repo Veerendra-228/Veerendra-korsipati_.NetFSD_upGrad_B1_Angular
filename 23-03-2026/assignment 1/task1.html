@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Responsive Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: lightblue;
+        }
+
+        nav {
+            display: flex;
+            background: #333;
+        }
+
+        nav a {
+            color: white;
+            padding: 15px;
+            text-decoration: none;
+        }
+
+        section {
+            padding: 20px;
+            font-size: 20px;
+        }
+        @media (max-width: 768px) {
+
+            body {
+                background-color: lightcoral; 
+            }
+
+            section {
+                font-size: 16px; 
+            }
+
+            nav {
+                flex-direction: column; 
+            }
+
+            nav a {
+                border-bottom: 1px solid white;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Contact</a>
+</nav>
+
+<section>
+    <h2>Responsive Design Example</h2>
+    <p>Resize the browser window or use responsive mode to see changes.</p>
+</section>
+
+</body>
+</html>

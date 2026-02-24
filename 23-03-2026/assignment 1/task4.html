@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Traffic Signal Simulator</title>
+</head>
+<body>
+
+<h2>Traffic Signal Simulator</h2>
+
+<script>
+let signal = "yellow";  
+
+switch (signal) {
+    case "red":
+        console.log("Stop");
+        document.write("Signal: Red → Stop");
+        break;
+
+    case "yellow":
+        console.log("Get Ready");
+        document.write("Signal: Yellow → Get Ready");
+        break;
+
+    case "green":
+        console.log("Go");
+        document.write("Signal: Green → Go");
+        break;
+
+    default:
+        console.log("Invalid Signal");
+        document.write("Invalid Signal Color Entered");
+}
+</script>
+
+</body>
+</html>
