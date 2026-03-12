@@ -1,0 +1,34 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* Card animation */
+.card {
+  border-radius: 10px;
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+}
+
+/* Header styling */
+.card-header {
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+/* Form input focus */
+.form-control:focus {
+  border-color: #0d6efd;
+  box-shadow: none;
+}
+
+/* Button hover */
+.btn-primary {
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  transform: scale(1.03);
+}

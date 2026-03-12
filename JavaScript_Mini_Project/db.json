@@ -1,0 +1,102 @@
+{
+  "events": [
+    {
+      "id": "1772718078216",
+      "title": "boot camp",
+      "description": "technical",
+      "date": "2026-03-06",
+      "location": "Hyderabad",
+      "capacity": 2000,
+      "availableSeats": 1996
+    },
+    {
+      "id": "1772721947374",
+      "title": "hello ",
+      "description": "hii",
+      "date": "2026-03-21",
+      "location": "Hyderabad",
+      "capacity": 123456,
+      "availableSeats": 123456
+    }
+  ],
+  "registrations": [
+    {
+      "id": "1772562341438",
+      "eventId": 1772561815037,
+      "participantName": "Kavya",
+      "email": "kavyakiranrkdk@gmail.com",
+      "phone": "9381571727"
+    },
+    {
+      "id": "1772562507621",
+      "eventId": 1772561815037,
+      "participantName": "Sri",
+      "email": "sample@gmail.com",
+      "phone": "9870564321"
+    },
+    {
+      "id": "1772562903276",
+      "eventId": 1772561815037,
+      "participantName": "siva",
+      "email": "siva@gmail.com",
+      "phone": "9381571734"
+    },
+    {
+      "id": "1772562941820",
+      "eventId": 1772561815037,
+      "participantName": "human",
+      "email": "human@gmail.com",
+      "phone": "8381571727"
+    },
+    {
+      "id": "1772563261829",
+      "eventId": 1772561815037,
+      "participantName": "raju",
+      "email": "raju@gmail.com",
+      "phone": "8981571727"
+    },
+    {
+      "id": "1772563937437",
+      "eventId": 1772561815037,
+      "participantName": "Kiran",
+      "email": "kiranrkdk@gmail.com",
+      "phone": "7891571727"
+    },
+    {
+      "id": "1772564095372",
+      "eventId": 1772561815037,
+      "participantName": "Sai",
+      "email": "sai@gmail.com",
+      "phone": "9881571727"
+    },
+    {
+      "id": "1772720762019",
+      "eventId": "1772718078216",
+      "participantName": "pobba venkata sai sivaram",
+      "email": "sram93815@gmail.com",
+      "phone": "9381500478"
+    },
+    {
+      "id": "1772720918323",
+      "eventId": "1772718078216",
+      "participantName": "pobba venkata sai sivaram",
+      "email": "sram93815@gmail.com",
+      "phone": "9381500478"
+    },
+    {
+      "id": "1772721900430",
+      "eventId": "1772718078216",
+      "participantName": "pobba venkata sai sivaram",
+      "email": "sram93815@gmail.com",
+      "phone": "9381500478"
+    },
+    {
+      "id": "1772722008369",
+      "eventId": "1772718078216",
+      "participantName": "siva",
+      "email": "ex@gmail.com",
+      "phone": "1234567899"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

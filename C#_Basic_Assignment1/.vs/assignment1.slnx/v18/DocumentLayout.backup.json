@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AJAY\\source\\repos\\assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59C7617F-4B8A-4CAC-89E5-350854185A82}|assignment1.csproj|c:\\users\\ajay\\source\\repos\\assignment1\\assignment7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C7617F-4B8A-4CAC-89E5-350854185A82}|assignment1.csproj|solutionrelative:assignment7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C7617F-4B8A-4CAC-89E5-350854185A82}|assignment1.csproj|c:\\users\\ajay\\source\\repos\\assignment1\\assignment1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{59C7617F-4B8A-4CAC-89E5-350854185A82}|assignment1.csproj|solutionrelative:assignment1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C7617F-4B8A-4CAC-89E5-350854185A82}|assignment1.csproj|c:\\users\\ajay\\source\\repos\\assignment1\\assignment1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{59C7617F-4B8A-4CAC-89E5-350854185A82}|assignment1.csproj|solutionrelative:assignment1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C7617F-4B8A-4CAC-89E5-350854185A82}|assignment1.csproj|c:\\users\\ajay\\source\\repos\\assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C7617F-4B8A-4CAC-89E5-350854185A82}|assignment1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "assignment1",
+              "DocumentMoniker": "C:\\Users\\AJAY\\source\\repos\\assignment1\\assignment1.csproj",
+              "RelativeDocumentMoniker": "assignment1.csproj",
+              "ToolTip": "C:\\Users\\AJAY\\source\\repos\\assignment1\\assignment1.csproj",
+              "RelativeToolTip": "assignment1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T12:37:31.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "assignment1",
+              "DocumentMoniker": "C:\\Users\\AJAY\\source\\repos\\assignment1\\assignment1.csproj",
+              "RelativeDocumentMoniker": "assignment1.csproj",
+              "ToolTip": "C:\\Users\\AJAY\\source\\repos\\assignment1\\assignment1.csproj",
+              "RelativeToolTip": "assignment1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T12:35:20.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AJAY\\source\\repos\\assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\AJAY\\source\\repos\\assignment1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAA4wFkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T12:33:39.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "assignment7.cs",
+              "DocumentMoniker": "C:\\Users\\AJAY\\source\\repos\\assignment1\\assignment7.cs",
+              "RelativeDocumentMoniker": "assignment7.cs",
+              "ToolTip": "C:\\Users\\AJAY\\source\\repos\\assignment1\\assignment7.cs",
+              "RelativeToolTip": "assignment7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T12:33:35.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* Event card styling */
+.event-card {
+  transition: transform 0.2s ease;
+}
+
+.event-card:hover {
+  transform: translateY(-4px);
+}
+
+/* Card styling */
+.card {
+  border-radius: 10px;
+}
+
+/* Button spacing */
+.event-buttons button {
+  margin-right: 8px;
+}
+
+/* Card title */
+.card-title {
+  font-weight: 600;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+
+  .event-buttons button {
+    width: 100%;
+    margin-bottom: 6px;
+  }
+
+}

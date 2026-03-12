@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# class assignment1\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|d:\\c# class assignment1\\consoleapp1\\consoleapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|solutionrelative:consoleapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|d:\\c# class assignment1\\consoleapp1\\assignment8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|solutionrelative:assignment8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|d:\\c# class assignment1\\consoleapp1\\assignment7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|solutionrelative:assignment7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|d:\\c# class assignment1\\consoleapp1\\assignment6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|solutionrelative:assignment6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|d:\\c# class assignment1\\consoleapp1\\assignment5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|solutionrelative:assignment5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|d:\\c# class assignment1\\consoleapp1\\assignment4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|solutionrelative:assignment4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|d:\\c# class assignment1\\consoleapp1\\assignment3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|solutionrelative:assignment3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|d:\\c# class assignment1\\consoleapp1\\assignment2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|solutionrelative:assignment2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|d:\\c# class assignment1\\consoleapp1\\assignment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|solutionrelative:assignment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|d:\\c# class assignment1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1114F4-1D89-4BDD-8059-2A759BF13F48}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "assignment8.cs",
+              "DocumentMoniker": "D:\\c# class assignment1\\ConsoleApp1\\assignment8.cs",
+              "RelativeDocumentMoniker": "assignment8.cs",
+              "ToolTip": "D:\\c# class assignment1\\ConsoleApp1\\assignment8.cs",
+              "RelativeToolTip": "assignment8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:24:14.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "assignment7.cs",
+              "DocumentMoniker": "D:\\c# class assignment1\\ConsoleApp1\\assignment7.cs",
+              "RelativeDocumentMoniker": "assignment7.cs",
+              "ToolTip": "D:\\c# class assignment1\\ConsoleApp1\\assignment7.cs",
+              "RelativeToolTip": "assignment7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:23:37.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "assignment6.cs",
+              "DocumentMoniker": "D:\\c# class assignment1\\ConsoleApp1\\assignment6.cs",
+              "RelativeDocumentMoniker": "assignment6.cs",
+              "ToolTip": "D:\\c# class assignment1\\ConsoleApp1\\assignment6.cs",
+              "RelativeToolTip": "assignment6.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:22:22.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "assignment5.cs",
+              "DocumentMoniker": "D:\\c# class assignment1\\ConsoleApp1\\assignment5.cs",
+              "RelativeDocumentMoniker": "assignment5.cs",
+              "ToolTip": "D:\\c# class assignment1\\ConsoleApp1\\assignment5.cs",
+              "RelativeToolTip": "assignment5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:21:29.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "assignment4.cs",
+              "DocumentMoniker": "D:\\c# class assignment1\\ConsoleApp1\\assignment4.cs",
+              "RelativeDocumentMoniker": "assignment4.cs",
+              "ToolTip": "D:\\c# class assignment1\\ConsoleApp1\\assignment4.cs",
+              "RelativeToolTip": "assignment4.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:20:26.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "D:\\c# class assignment1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1.csproj",
+              "ToolTip": "D:\\c# class assignment1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-12T12:18:23.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "assignment3.cs",
+              "DocumentMoniker": "D:\\c# class assignment1\\ConsoleApp1\\assignment3.cs",
+              "RelativeDocumentMoniker": "assignment3.cs",
+              "ToolTip": "D:\\c# class assignment1\\ConsoleApp1\\assignment3.cs",
+              "RelativeToolTip": "assignment3.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:19:34.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "assignment2.cs",
+              "DocumentMoniker": "D:\\c# class assignment1\\ConsoleApp1\\assignment2.cs",
+              "RelativeDocumentMoniker": "assignment2.cs",
+              "ToolTip": "D:\\c# class assignment1\\ConsoleApp1\\assignment2.cs",
+              "RelativeToolTip": "assignment2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:18:50.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "assignment1.cs",
+              "DocumentMoniker": "D:\\c# class assignment1\\ConsoleApp1\\assignment1.cs",
+              "RelativeDocumentMoniker": "assignment1.cs",
+              "ToolTip": "D:\\c# class assignment1\\ConsoleApp1\\assignment1.cs",
+              "RelativeToolTip": "assignment1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:14:55.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# class assignment1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\c# class assignment1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:14:25.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
