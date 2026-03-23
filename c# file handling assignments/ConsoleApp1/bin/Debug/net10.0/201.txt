@@ -1,0 +1,6 @@
+Student Name: ram
+Roll Number: 201
+Marks: 100, 100, 56
+Total: 256
+Average: 85.33
+Grade: A
