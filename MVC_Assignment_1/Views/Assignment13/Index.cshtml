@@ -1,0 +1,37 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        body {
+            background-color: LightYellow;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h2>Student List</h2>
+
+    @{
+        var students = ViewData["Students"] as List<string>;
+    }
+
+    @foreach (var student in students)
+    {
+        <p>@student</p>
+    }
+</body>
+</html>

@@ -1,0 +1,32 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+        <style>
+            body {
+                background-color: LightYellow;
+            }
+            h2 {
+                color: #333;
+            }
+            p {
+                font-size: 18px;
+                color: #555;
+            }
+        </style>
+</head>
+<body>
+    <h2>Employee Details</h2>
+
+    <p>Name: @ViewData["Name"]</p>
+    <p>Salary: @ViewData["Salary"]</p>
+    <p>Department: @ViewData["Department"]</p>
+</body>
+</html>

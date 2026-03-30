@@ -1,0 +1,44 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+    <style>
+        body {
+            background-color: LightYellow;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h2>Student Details</h2>
+
+    <p>Name: @ViewData["Name"]</p>
+    <p>Age: @ViewData["Age"]</p>
+
+    @{
+        int age = Convert.ToInt32(ViewData["Age"]);
+    }
+
+    @if (age > 18)
+    {
+        <p style="color:green;">Eligible</p>
+    }
+    else
+    {
+        <p style="color:red;">Not Eligible</p>
+    }
+</body>
+</html>

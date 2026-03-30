@@ -1,0 +1,41 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        body {
+            background-color: LightYellow;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+            color: #555;
+        }
+     </style>
+</head>
+<body>
+    <h2>Eligibility Check</h2>
+
+    @{
+        int age = Convert.ToInt32(ViewData["Age"]);
+    }
+
+    @if (age >= 18)
+    {
+        <p>Eligible to vote</p>
+    }
+    else
+    {
+        <p>Not eligible</p>
+    }
+</body>
+</html>
