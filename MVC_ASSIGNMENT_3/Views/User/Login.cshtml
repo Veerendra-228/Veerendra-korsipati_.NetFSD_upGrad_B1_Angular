@@ -1,0 +1,8 @@
+﻿<form asp-action="Login" method="post">
+    <input name="email" placeholder="Email" />
+    <input name="password" type="password" placeholder="Password" />
+
+    <button type="submit">Login</button>
+
+    <p style="color:red">@ViewBag.Error</p>
+</form>

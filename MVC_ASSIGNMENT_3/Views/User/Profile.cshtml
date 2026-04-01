@@ -1,0 +1,21 @@
+﻿@model MVC_ASSIGNMENT_3.ViewModels.UserViewModel
+
+@{
+    ViewData["Title"] = "User Profile";
+}
+
+<h2>User Profile</h2>
+
+<hr />
+
+<div>
+    <p><strong>Name:</strong> @Model.Name</p>
+    <p><strong>Email:</strong> @Model.Email</p>
+</div>
+
+<br />
+
+<div>
+    <a asp-controller="User" asp-action="Edit" class="btn btn-primary">Edit Profile</a>
+    <a asp-controller="User" asp-action="Logout" class="btn btn-danger">Logout</a>
+</div>
